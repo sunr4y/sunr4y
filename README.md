@@ -1,8 +1,19 @@
 # Samuel Criado
 
-**Backend Developer** · Granada, Spain
+**SAP Backend Developer** · ABAP Cloud · SAP BTP  
+*Python & API background* · Granada, Spain
 
 ---
+
+<div align="center">
+
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=white&style=flat-square)
+![ABAP Cloud](https://img.shields.io/badge/ABAP_Cloud-0FAAFF?style=flat-square)
+![SAP BTP](https://img.shields.io/badge/SAP_BTP-0FAAFF?style=flat-square)
+![OData](https://img.shields.io/badge/OData-0FAAFF?style=flat-square)
+
+</div>
+<br />
 
 <div align="center">
 
@@ -22,37 +33,52 @@
 <br />
 
 <div align="center">
-
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
-
 </div>
 <br />
 
----
-
 ## About
 
-Backend developer with experience in Django, Flask and FastAPI. Focused on APIs, web scraping and databases. I design and build backend systems: REST APIs, scrapers, task queues and DevOps (containers, CI/CD, monitoring).
+Training as an **SAP backend developer** (Experis Academy, Apr–Jul 2026), focused on **ABAP Cloud** and **SAP BTP**. Background in Python backends: REST APIs, integrations, SQL, and Docker.
 
-- **API development** (Django REST Framework, Django Ninja)
-- **Web scraping** (Beautiful Soup, requests, Scrapy)
-- **Databases** (PostgreSQL, MySQL, MongoDB)
-- **DevOps** (Docker, Celery, Redis, Prometheus, Grafana)
+Preparing for **C_ABAPD**, **C_CPE**, and **C_CPI** 
+
+---
+
+## Certifications *(in preparation)*
+
+| Exam | Target |
+|------|--------|
+| **C_ABAPD** | Back-End Developer — ABAP Cloud |
+| **C_CPE** | SAP Extension Suite |
+| **C_CPI** | SAP Integration Suite |
+
+Experis Academy · Apr–Jul 2026 · *In progress*
+
+---
+
+## Currently learning
+
+- ABAP Cloud & S/4HANA extensions (RAP, CDS views)
+- SAP BTP (CAP, OData)
+- Integration Suite (API Management, Cloud Integration)
+
+---
+
+## Side projects
+
+| Project | Description |
+|---------|-------------|
+| [**FKApi**](https://github.com/sunr4y/fkapi) | REST API for football kit data (Django Ninja, PostgreSQL, Celery, Redis) |
+| [**FootyCollect**](https://github.com/sunr4y/FootyCollect) | Collector platform with FKApi integration and REST API |
 
 ---
 
 ## Activity
-
-<div align="center">
-
-
-
-</div>
-<br />
 
 <div align="center">
 
@@ -72,5 +98,7 @@ Backend developer with experience in Django, Flask and FastAPI. Focused on APIs,
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sunr4y.dev-58a6ff?style=for-the-badge&logo=link&logoColor=white)](https://sunr4y.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samuel_Criado-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-criado/)
+
 
 </div>
