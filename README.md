@@ -46,7 +46,7 @@
 
 Training as an **SAP backend developer** (Experis Academy, Apr–Jul 2026), focused on **ABAP Cloud** and **SAP BTP**. Background in Python backends: REST APIs, integrations, SQL, and Docker.
 
-Preparing for **C_ABAPD**, **C_CPE**, and **C_CPI** (associate-level SAP certifications).
+Preparing for **C_ABAPD**, **C_CPE**, and **C_CPI** .
 
 ---
 
