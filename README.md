@@ -7,7 +7,7 @@
 
 <div align="center">
 
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=white&style=flat-square)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
 ![ABAP Cloud](https://img.shields.io/badge/ABAP_Cloud-0FAAFF?style=flat-square)
 ![SAP BTP](https://img.shields.io/badge/SAP_BTP-0FAAFF?style=flat-square)
 ![OData](https://img.shields.io/badge/OData-0FAAFF?style=flat-square)
@@ -33,6 +33,7 @@
 <br />
 
 <div align="center">
+
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
@@ -45,7 +46,7 @@
 
 Training as an **SAP backend developer** (Experis Academy, Apr–Jul 2026), focused on **ABAP Cloud** and **SAP BTP**. Background in Python backends: REST APIs, integrations, SQL, and Docker.
 
-Preparing for **C_ABAPD**, **C_CPE**, and **C_CPI** 
+Preparing for **C_ABAPD**, **C_CPE**, and **C_CPI** (associate-level SAP certifications).
 
 ---
 
