@@ -44,40 +44,23 @@
 
 ## About
 
-Training as an **SAP backend developer** (Experis Academy, Apr–Jul 2026), focused on **ABAP Cloud** and **SAP BTP**. Background in Python backends: REST APIs, integrations, SQL, and Docker.
+SAP Backend Developer with a background building Python backends, REST APIs, integrations, and data-driven services. I completed the SAP backend development program at Experis Academy in July 2026, covering ABAP Cloud, SAP BTP, CAP, and Integration Suite.
 
-Preparing for **C_ABAPD**, **C_CPE**, and **C_CPI** .
+## SAP Certifications
 
----
-
-## Certifications *(in preparation)*
-
-| Exam | Target |
-|------|--------|
-| **C_ABAPD** | Back-End Developer — ABAP Cloud |
-| **C_CPE** | SAP Extension Suite |
-| **C_CPI** | SAP Integration Suite |
-
-Experis Academy · Apr–Jul 2026 · *In progress*
-
----
-
-## Currently learning
-
-- ABAP Cloud & S/4HANA extensions (RAP, CDS views)
-- SAP BTP (CAP, OData)
-- Integration Suite (API Management, Cloud Integration)
-
----
+| Certification | Issued | Valid through | Credential |
+|---|---|---|---|
+| SAP Certified — Back-End Developer, ABAP Cloud | Jul 2026 | Jul 2027 | [View badge](https://www.credly.com/badges/0e0c6e91-03d2-4908-966f-93a17f230dbf/public_url) |
+| SAP Certified — Backend Developer, SAP Cloud Application Programming Model | Sep 2026 | Sep 2027 | [View badge](https://www.credly.com/badges/885693c0-b401-48f4-a4c0-a2c790d6d9bc/public_url) |
+| SAP Certified — SAP Generative AI Developer | Sep 2026 | Aug 2027 | [View badge](https://www.credly.com/badges/a37f1f27-e8bb-42bb-924d-0c5f83593228/public_url) |
+| SAP Certified — Integration Developer | Sep 2026 | Aug 2027 | [View badge](https://www.credly.com/badges/5c9c3ca7-3c59-4df1-808e-53e6b19e17d9/public_url) |
 
 ## Side projects
 
 | Project | Description |
 |---------|-------------|
-| [**FKApi**](https://github.com/sunr4y/fkapi) | REST API for football kit data (Django Ninja, PostgreSQL, Celery, Redis) |
-| [**FootyCollect**](https://github.com/sunr4y/FootyCollect) | Collector platform with FKApi integration and REST API |
-
----
+| [**FKApi**](https://github.com/sunr4y/fkapi) | Archived project; its hosted API is no longer served. Automatic data collection stopped after Football Kit Archive introduced stricter Cloudflare anti-bot protections. |
+| [**FootyCollect**](https://github.com/sunr4y/FootyCollect) | Football kit collection platform. Manual product creation remains available; automatic FKApi search and import are unavailable due to the upstream Cloudflare restrictions. |
 
 ## Activity
 
@@ -100,6 +83,5 @@ Experis Academy · Apr–Jul 2026 · *In progress*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sunr4y.dev-58a6ff?style=for-the-badge&logo=link&logoColor=white)](https://sunr4y.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Samuel_Criado-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-criado/)
-
 
 </div>
